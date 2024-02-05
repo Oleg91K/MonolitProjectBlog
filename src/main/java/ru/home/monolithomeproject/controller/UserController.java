@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import ru.home.monolithomeproject.entity.User;
-import ru.home.monolithomeproject.repository.UserRepository;
 import ru.home.monolithomeproject.service.implementation.UserService;
 
 @RestController
